@@ -1,0 +1,17 @@
+com\epam\ta\service\UserCreator.class
+com\epam\ta\driver\DriverSingleton.class
+com\epam\ta\page\MainPage.class
+com\epam\ta\page\CreateNewRepositoryPage.class
+com\epam\ta\page\LoginPage.class
+com\epam\ta\test\CommonConditions.class
+com\epam\ta\test\UserRegTest.class
+com\epam\ta\util\TestListener.class
+com\epam\ta\model\User.class
+com\epam\ta\page\SamsungTVPage.class
+com\epam\ta\test\UserAccessTests.class
+com\epam\ta\page\SamsungMainPage.class
+com\epam\ta\page\SamsungSmartphonePage.class
+com\epam\ta\service\TestDataReader.class
+com\epam\ta\util\StringUtils.class
+com\epam\ta\test\RepositoryManagementTests.class
+com\epam\ta\page\AbstractPage.class
